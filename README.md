@@ -1,2 +1,22 @@
 # project-students
-اولین پروژه ای که زدم پروژه دانش اموزان هستش که ترکیبی از فانکشن-حلقه -شرط ها هستش که برای مرور و یادگیری و زدن پروژه های بزرگ تر نیازه
+# Student Manager (Python)
+
+A simple console-based student management system written in Python.
+
+## Features
+- Add student
+- Remove student
+- Show students
+- Search student
+- Save data to file
+
+## Technologies
+- Python
+- List
+- Functions
+- While loop
+- File handling
+
+## How to Run
+`bash
+python main.py
