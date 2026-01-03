@@ -1,22 +1,17 @@
-# project-students
-# Student Manager (Python)
+# Student Management Project
 
-A simple console-based student management system written in Python.
+This is a Python project for managing student records. 
+It includes functionalities for adding, removing, printing, and searching students.
 
 ## Features
-- Add student
+- Add new student
 - Remove student
-- Show students
-- Search student
-- Save data to file
+- View all students
+- Search students by name
+- Menu-driven interface
 
-## Technologies
-- Python
-- List
-- Functions
-- While loop
-- File handling
+## How to use
+1. Clone the repository:
+   `bash
+   git clone https://github.com/baharenouriyan/student-project.git
 
-## How to Run
-`bash
-python main.py
